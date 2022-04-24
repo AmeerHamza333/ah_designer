@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ah_designer/static/css/main.dd7105c2.css",
+    "main.js": "/ah_designer/static/js/main.04796e6d.js",
+    "static/js/787.aedf8d50.chunk.js": "/ah_designer/static/js/787.aedf8d50.chunk.js",
+    "index.html": "/ah_designer/index.html",
+    "main.dd7105c2.css.map": "/ah_designer/static/css/main.dd7105c2.css.map",
+    "main.04796e6d.js.map": "/ah_designer/static/js/main.04796e6d.js.map",
+    "787.aedf8d50.chunk.js.map": "/ah_designer/static/js/787.aedf8d50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7105c2.css",
+    "static/js/main.04796e6d.js"
+  ]
+}
