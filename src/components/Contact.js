@@ -36,7 +36,7 @@ msg: ""
 
 
   return (
-    <div className='container' style={{display: "flex", justifyContent: "center", marginTop: "40px",alignItems: "center", flexDirection: "column"}}>
+    <div className='container' style={{display: "flex", justifyContent: "center", marginTop: "40px",alignItems: "center", flexDirection: "column", height: "90vh"}}>
 
     <div>
     <h3 style={{fontFamily:"Bebas Neue", fontSize: "2rem", color: "cyan"}}> Contact Us </h3>

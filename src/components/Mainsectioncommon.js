@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Mainsectioncommon(props) {
   return (
-    <div  style={{height: "70vh", width: "100vw", display:"flex"}}>
+    <div  style={{height: "90vh", width: "95vw", display:"flex"}}>
 
 <div className='leftsection' style={{ width: "50vw",  display: "flex", flexDirection: "column", justifyContent: "center", lineHeight: "1.4rem", marginLeft: "40px"}}> 
 
@@ -12,7 +12,7 @@ export default function Mainsectioncommon(props) {
 <button type="button" className="btn btn-outline-success" style={{width: "30vw", marginTop: "1vw", fontSize: "1rem"}}> {props.btn} </button>
  </div>
 
-<div className='rightsection' style={{ width: "50vw",  display: "flex", justifyContent: "center",}}>
+<div className='rightsection' style={{ width: "50vw",  display: "flex", justifyContent: "center", alignItems: "center"}}>
 
 <img className='image' src={props.srcc} alt="" style={{ height: "35vw"}}/>
 
